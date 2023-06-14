@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии
-``Exel``,``Miro``,``Sitechco``,``Confluence``,Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``,
+``Exel``,``Miro``,``Sitechco``,``Confluence``,``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``,
 ``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``,``Mockoon``,``DBeaver``
 
 
